@@ -1,4 +1,3 @@
-![image](../images/confluent-logo-300-2.png)
 
 # Overview
 
